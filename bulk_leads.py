@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-pip install Flask-SQLAlchemy
+
 import streamlit as st
 import pandas as pd
-from flask_sqlalchemy import sqlalchemy
+import sqlalchemy
 from sqlalchemy import create_engine
 
 
